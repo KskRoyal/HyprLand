@@ -1,12 +1,13 @@
 # HyprLand
 <b> Minimal HyprLand Setup W/ ArchLinux </b>
 
-* Discover the easiest way to set up your ArchLinux system for a minimalistic HyprLand experience.
-*   After Booting into HyprLand, Open terminal and install Aur Helper called Paru
+ Discover the easiest way to set up your ArchLinux system for a minimalistic HyprLand experience.
+
 
 <b> ArchInstall </b>
+* Using ArchInstall Script Install Archlinux on bare metal.
+* After Booting into HyprLand, Open terminal and install Aur Helper called Paru
 
-With ArchInstall Script Install Archlinux on bare metal.
 
 <b> Install Paru (Aur Helper)</b>
 
