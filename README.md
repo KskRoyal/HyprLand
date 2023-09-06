@@ -12,7 +12,7 @@
 <b> Install Paru (Aur Helper)</b>
 
 ```
-* git clone https://aur.archlinux.org/paru-bin.git
+git clone https://aur.archlinux.org/paru-bin.git
 ```
 * cd paru-bin
 
