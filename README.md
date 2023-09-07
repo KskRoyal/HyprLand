@@ -22,7 +22,7 @@ git clone https://aur.archlinux.org/paru-bin.git
 <b>Install Dependencies / Packages </b>
 
 ```
-paru -S imv wlogout brightnessctl wl-clipboard waybar-hyprland swaylock-effects wofi pavucontrol pamixer file-roller htop ttf-font-awesome ttf-jetbrains-mono-nerd noto-fonts-emoji hyprpaper linux-headers alsa-utils less wlroots vlc gnu-free-fonts thunar noto-fonts ttf-bitstream-vera ttf-croscore ttf-dejavu ttf-droid ttf-ibm-plex ttf-liberation 
+paru -S imv wlogout brightnessctl wl-clipboard waybar-hyprland swaylock-effects wofi pavucontrol pamixer file-roller htop ttf-font-awesome ttf-jetbrains-mono-nerd noto-fonts-emoji hyprpaper linux-headers alsa-utils less wlroots vlc gnu-free-fonts thunar noto-fonts ttf-bitstream-vera ttf-croscore ttf-dejavu ttf-droid ttf-ibm-plex ttf-liberation udiskie
 ```
 
 
