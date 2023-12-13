@@ -16,7 +16,7 @@ git clone https://aur.archlinux.org/paru-bin.git
 ```
 * cd paru-bin
 
-* makepkg -Si
+* makepkg -si
 
 
 <b>Install Dependencies / Packages </b>
